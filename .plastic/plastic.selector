@@ -1,0 +1,4 @@
+repository "Tank1980@btc_volodya@cloud"
+  path "/"
+    br "/main"
+    co "/main"
